@@ -1,7 +1,7 @@
 [
   {
     "name":"公安巡防大数据平台",
-    "url":"https://weibsgz.github.io/gongan/#/login",
+    "url":"https://fengyw1989.github.io/gongan/#/login",
     "img":"./img/Project/twoTeam/gonganxunfang.jpg",
     "technology":"css3,echarts,elementUi,vue",
     "time":"2018年2月",
@@ -10,7 +10,7 @@
   },
   {
     "name":"猎鹰大数据",
-    "url":"https://jusfoun-fe.github.io/lieying/?#/login",
+    "url":"https://fengyw1989.github.io/lieying/index.html#/login",
     "img":"./img/Project/twoTeam/lieying.jpg",
     "technology":"css3,echarts,elementUi,vue",
     "time":"2018年1月",
@@ -218,7 +218,7 @@
   "txt":"出国安全预警，困难求助，团队管理出国安全预警，困难求助，团队管理"
 },{
   "name":"钢铁大数据",
-  "url":"https://jusfoun-fe.github.io/steelBigData",
+  "url":"https://fengyw1989.github.io/gangtie/index.html",
   "img":"./img/Project/threeTeam/gangtie.jpg",
   "technology":"echarts,jquery",
   "time":"2016年9月",
