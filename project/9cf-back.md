@@ -82,7 +82,7 @@
 <div class="div-technology">jquery,css3,echarts,SVG,bootstrap</div>
 <div><p>2016年3月</p><i class="icon iconfont icon-github1"></i></div>
 
-- [![安易行app](./img/Project/threeTeam/anyihangapp.jpg)](https://yangyongguan.github.io/big-data/slb)
+- [![安易行app](./img/Project/threeTeam/anyihangapp.jpg)](https://fengyw1989.github.io/anyixing)
 ### 安易行app ######
 <p>出国安全预警，困难求助，团队管理</p>
 <div class="div-technology">vue,webpack,mintui</div>
