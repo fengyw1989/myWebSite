@@ -162,7 +162,7 @@
   "txt":"利用工商全景大数据库构建市场监管风险预警机制，挖掘业务关联，精准定位监管难点重点，并通过“机器学习”模式自动生成处置建议，采取预防措施，合理调配监管力量，提高监管效率；通过可视化图表进行宏观经济趋势分析、经济结构调整分析、资本流动趋势预判、就业需求景气预测等在内的各类辅助决策信息支持与数据验证，帮助各级政府与职能部门提高政策决策能力与市场掌控能力。"
 },{
   "name":"九次方民意云大数据平台",
-  "url":"https://yangyongguan.github.io/big-data/minyi/html/login.html",
+  "url":" https://fengyw1989.github.io/minyiyun/login.html",
   "img":"./img/Project/oneTeam/minyiyun.jpg",
   "technology":"jquery,echarts,handlebars",
   "time":"2017年4月",
