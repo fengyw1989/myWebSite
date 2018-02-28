@@ -114,7 +114,7 @@ KeyCodes:ALL,苹果,河蟹,小场景,政务,泸州
 <div>jquery,css3,echarts,SVG,bootstrap</div>
 <p>2016年3月<p>
 
-- [![安易行app](./img/Project/threeTeam/anyihangapp.jpg)](./phone.html?url=https://https://fengyw1989.github.io/anyixing)
+- [![安易行app](./img/Project/threeTeam/anyihangapp.jpg)](./phone.html?url=https://fengyw1989.github.io/anyixing)
 ### 安易行app ######
 出国安全预警，困难求助，团队管理
 <div>vue,webpack,mintui</div>
